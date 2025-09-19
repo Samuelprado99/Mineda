@@ -11,4 +11,5 @@ public interface UsuarioService {
 
     public Usuario buscarPeloId(Long id);
     
+
 }
